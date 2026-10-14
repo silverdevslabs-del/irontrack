@@ -1,6 +1,6 @@
 {
   "appName": "IronTrack - Rutina Luis Reyes",
-  "version": "5.0.0",
+  "version": "5.2.0",
   "defaultRestSeconds": 60,
   "defaultSets": 4,
   "defaultReps": 15,
@@ -12,6 +12,22 @@
       "focus": "Espalda / Hombros / Bíceps / Core",
       "color": "#3B82F6",
       "exercises": [
+        {
+          "id": "d1-cardio",
+          "name": "Cardio: Elíptica / Bicicleta",
+          "machine": "Elíptica (o Bicicleta Estática)",
+          "suggested": "15 min (Nivel 4 - 8)",
+          "category": "cardio",
+          "defaultTime": 15,
+          "defaultLevel": 5,
+          "defaultDistance": 3.5,
+          "defaultCalories": 120,
+          "sets": 1,
+          "reps": 15,
+          "muscle": "Resistencia aeróbica y calentamiento general",
+          "posture": "Comienza a ritmo suave los primeros 2 minutos para lubricar articulaciones y elevar pulsaciones. Mantén el torso erguido, hombros relajados y el abdomen activo sin encorvar la espalda.",
+          "tips": "Elíptica fijada por defecto (puedes alternar a Bicicleta si está ocupada). Ajusta la resistencia para mantener un pedaleo/zancada constante y fluido."
+        },
         {
           "id": "d1-e1",
           "name": "Remo en máquina / barra",
@@ -267,6 +283,22 @@
       "color": "#10B981",
       "exercises": [
         {
+          "id": "d2-cardio",
+          "name": "Cardio: Elíptica / Bicicleta",
+          "machine": "Elíptica (o Bicicleta Estática)",
+          "suggested": "15 min (Nivel 4 - 8)",
+          "category": "cardio",
+          "defaultTime": 15,
+          "defaultLevel": 5,
+          "defaultDistance": 3.5,
+          "defaultCalories": 120,
+          "sets": 1,
+          "reps": 15,
+          "muscle": "Resistencia aeróbica y calentamiento general",
+          "posture": "Comienza a ritmo suave los primeros 2 minutos para lubricar articulaciones y elevar pulsaciones. Mantén el torso erguido, hombros relajados y el abdomen activo sin encorvar la espalda.",
+          "tips": "Elíptica fijada por defecto (puedes alternar a Bicicleta si está ocupada). Ajusta la resistencia para mantener un pedaleo/zancada constante y fluido."
+        },
+        {
           "id": "d2-e1",
           "name": "Estocadas con pesa rusa (Kettlebell)",
           "machine": "Pesa Rusa (Kettlebell)",
@@ -517,6 +549,22 @@
       "focus": "Pecho / Tríceps / Core",
       "color": "#F59E0B",
       "exercises": [
+        {
+          "id": "d3-cardio",
+          "name": "Cardio: Elíptica / Bicicleta",
+          "machine": "Elíptica (o Bicicleta Estática)",
+          "suggested": "15 min (Nivel 4 - 8)",
+          "category": "cardio",
+          "defaultTime": 15,
+          "defaultLevel": 5,
+          "defaultDistance": 3.5,
+          "defaultCalories": 120,
+          "sets": 1,
+          "reps": 15,
+          "muscle": "Resistencia aeróbica y calentamiento general",
+          "posture": "Comienza a ritmo suave los primeros 2 minutos para lubricar articulaciones y elevar pulsaciones. Mantén el torso erguido, hombros relajados y el abdomen activo sin encorvar la espalda.",
+          "tips": "Elíptica fijada por defecto (puedes alternar a Bicicleta si está ocupada). Ajusta la resistencia para mantener un pedaleo/zancada constante y fluido."
+        },
         {
           "id": "d3-e1",
           "name": "Press de pecho en máquina Smith",
